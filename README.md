@@ -146,4 +146,4 @@ To build upon this research, the following directions are suggested:
 4. Joshi, N., et al. Human and Automatic Evaluation. *DOI: [Link](https://doi.org/10.1007/978-3-642-30157-5_42)*
 
 ---
-[Download Project Report](./https://drive.google.com/file/d/1krvdqcNTB8K9Gy4EboEQDPozIK60bns9/view?usp=sharing)
+[Download Project Report](https://drive.google.com/file/d/1krvdqcNTB8K9Gy4EboEQDPozIK60bns9/view?usp=sharing)
