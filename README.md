@@ -1,0 +1,2 @@
+# Bridging-Generations-Comparative-Performance-of-LSTM-and-Transformer-in-Language-Translation
+This project examines the comparative performance of two deep learning architectures, LSTM (Long Short-Term Memory) and Transformer, for English-to-Hindi translation. Using the IIT Bombay English-Hindi Parallel Corpus, it evaluates translation accuracy, computational efficiency, and the ability to handle long-term dependencies in language.
